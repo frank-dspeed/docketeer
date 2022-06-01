@@ -42,6 +42,9 @@
     "url": "https://github.com/andyearnshaw/docketeer/issues"
   },
   "homepage": "https://github.com/andyearnshaw/docketeer#readme",
+  "dependencies": {
+    "puppeteer": "*"
+  },
   "devDependencies": {
     "jest": "^28.1.0",
     "prettier": "^2.6.2"
